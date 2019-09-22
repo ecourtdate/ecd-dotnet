@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ECDDotNet", "ECDDotNet\ECDDotNet.vbproj", "{D5BFCAE4-0E5D-4695-A178-FB12303543DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61BC216F-86FB-4267-8386-E963984744C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BFCAE4-0E5D-4695-A178-FB12303543DC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D5BFCAE4-0E5D-4695-A178-FB12303543DC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D5BFCAE4-0E5D-4695-A178-FB12303543DC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D5BFCAE4-0E5D-4695-A178-FB12303543DC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

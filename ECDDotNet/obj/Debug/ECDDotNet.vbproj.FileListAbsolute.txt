@@ -1,0 +1,7 @@
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/bin/Debug/ECDDotNet.exe
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/bin/Debug/ECDDotNet.pdb
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/bin/Debug/Newtonsoft.Json.dll
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/bin/Debug/Newtonsoft.Json.xml
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/obj/Debug/ECDDotNet.vbproj.CopyComplete
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/obj/Debug/ECDDotNet.exe
+/Users/ibrahim/Projects/ECDDotNet/ECDDotNet/obj/Debug/ECDDotNet.pdb
